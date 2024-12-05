@@ -1,19 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| e4ec2b7b54284c73ae777db1d1026493 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+==================================+========================+==========+
-| NAME: De Guzman, Jaydee Ryzen B. | DATE PERFORMED:        | /50      |
-|                                  | December 5, 2024       |          |
-| Aguilo, Alyzzah Yvonne           |                        |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | December 5, 2024       |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/0b1f8b12-d46f-4bf7-b0fb-0afc8c72497e)
+
 
 **Part 2. Network Scalability Analysis**
 
