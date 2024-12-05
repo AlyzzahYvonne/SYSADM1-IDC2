@@ -53,8 +53,7 @@ increased user demand, new applications, and security threats.
 ![](vertopal_e4ec2b7b54284c73ae777db1d1026493/media/image2.png){width="5.052917760279965in"
 height="3.8255161854768156in"}
 
-![](vertopal_e4ec2b7b54284c73ae777db1d1026493/media/image3.png){width="7.078125546806649in"
-height="5.041666666666667in"}
+![image](https://github.com/user-attachments/assets/b98e1711-78be-4335-905b-86d51d6b48ff)
 
 The second topology for the e-commerce website is justified by its focus
 on improving network performance and scalability. Key features include
