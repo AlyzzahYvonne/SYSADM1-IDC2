@@ -91,7 +91,13 @@ FGE_LW3 Managing Services in Windows
 
 
 Midterms:
-
+M_LW1 Print Services 
+![image](https://github.com/user-attachments/assets/7cf8c5c1-5366-4185-aad8-02a910faee91)
+M_LW2 Web Server
+![image](https://github.com/user-attachments/assets/d94cbf16-ebf6-4ce5-9b86-5cdbb3dc9c67)
+M_LW3 Platform Services         
+![image](https://github.com/user-attachments/assets/7f12a39a-2350-46c9-953e-b180e3ac7786)
+  
 Finals
 
 **Course Reflection**
