@@ -82,23 +82,42 @@
 | Course Reflection                      |              |              |
 +----------------------------------------+--------------+--------------+
 First Grading:
-FGE_A1 Physical Infrastructure   
+FGE_A1 Physical Infrastructure
+
 ![image](https://github.com/user-attachments/assets/37ce613e-8451-49f9-99ab-51878b5fa20e)
+
 FGE_LW1 Creating File Systems  
+
 ![image](https://github.com/user-attachments/assets/5a2f308a-9a46-4c21-aa32-bc2f45ff5a46)
+
 FGE_LW3 Managing Services in Windows 
+
 ![image](https://github.com/user-attachments/assets/0e64ea3e-dcb3-4794-ae6c-5eaf1c35a1c2)
 
 
 Midterms:
-M_LW1 Print Services 
+M_LW1 Print Services
+
 ![image](https://github.com/user-attachments/assets/7cf8c5c1-5366-4185-aad8-02a910faee91)
+
 M_LW2 Web Server
+
 ![image](https://github.com/user-attachments/assets/d94cbf16-ebf6-4ce5-9b86-5cdbb3dc9c67)
-M_LW3 Platform Services         
+
+M_LW3 Platform Services
+
 ![image](https://github.com/user-attachments/assets/7f12a39a-2350-46c9-953e-b180e3ac7786)
+
   
 Finals
+FQuiz1_Recovery
+![image](https://github.com/user-attachments/assets/a144b738-a4bb-429a-9504-2e2ca897edef)
+
+FLW1_Kerberos      
+![image](https://github.com/user-attachments/assets/0ce35b1f-a407-4dae-9714-dafe30cf15a1)
+
+FLW2 Git         
+![image](https://github.com/user-attachments/assets/16f392da-6237-48ef-b156-7c0892586ffd)
 
 **Course Reflection**
 
